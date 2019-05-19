@@ -1,0 +1,10 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+
+@import "./App.scss";
+@import "../src/pages/Desktop/Desktop.scss";
+@import "../src/cmps/DesktopHeader/DesktopHeader.scss";
+
+body {
+  margin: 0;
+  padding: 0;
+}

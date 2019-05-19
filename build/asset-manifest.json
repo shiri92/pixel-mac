@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8ac386b8.chunk.css",
+    "main.js": "/static/js/main.b135e261.chunk.js",
+    "main.js.map": "/static/js/main.b135e261.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.64afa1e5.chunk.css": "/static/css/2.64afa1e5.chunk.css",
+    "static/js/2.609907aa.chunk.js": "/static/js/2.609907aa.chunk.js",
+    "static/js/2.609907aa.chunk.js.map": "/static/js/2.609907aa.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9d4b205dc6264ad77a01a7664629d414.js": "/precache-manifest.9d4b205dc6264ad77a01a7664629d414.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.64afa1e5.chunk.css.map": "/static/css/2.64afa1e5.chunk.css.map",
+    "static/css/main.8ac386b8.chunk.css.map": "/static/css/main.8ac386b8.chunk.css.map",
+    "static/media/apple.png": "/static/media/apple.70b9bfd8.png",
+    "static/media/background-desktop.jpg": "/static/media/background-desktop.0a956a90.jpg",
+    "static/media/wifi.jpg": "/static/media/wifi.aa28a82d.jpg"
+  }
+}

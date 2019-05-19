@@ -1,0 +1,11 @@
+.desktop-header {
+  background-color: #aeb3c2;
+  font-size: 0.9rem;
+  .content {
+    .left {
+      & :nth-child(2) {
+        font-weight: bold;
+      }
+    }
+  }
+}
